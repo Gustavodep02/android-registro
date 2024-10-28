@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="verificar">Verificar</string>
+    <string name="voltar">Voltar</string>
+</resources>
